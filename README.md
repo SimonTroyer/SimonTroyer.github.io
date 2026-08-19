@@ -7,7 +7,7 @@
   
   "age": 21,
   
-  "address": "Hudsonville, Michigan"
+  "address": "Hudsonville, Michigan",
   
   "hobbies": ["taekwondo", "writing", "video games", "game development"],
 
